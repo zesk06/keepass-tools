@@ -1,0 +1,7 @@
+# runtime
+pykeepass
+tqdm
+# dev
+ipdb
+black
+isort
